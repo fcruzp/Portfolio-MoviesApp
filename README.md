@@ -17,5 +17,7 @@ The code feature a very extensive comment lines to ensure everything is organize
 ### How to update this repository
 
 git add .
+
 git commit -m "comment"
+
 git push -u origin main
