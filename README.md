@@ -6,7 +6,7 @@ Simple web application to showcase the use of the [OMDb API](https://facebook.gi
 
 List of features you will find in this code:
 
-### `React JS Version 18`
+### React JS Version 18
 
 The code is updated to the last version of REACT JS
 
@@ -14,3 +14,8 @@ The code is updated to the last version of REACT JS
 
 The code feature a very extensive comment lines to ensure everything is organized and understandable.
 
+### How to update this repository
+
+git add .
+git commit -m "comment"
+git push -u origin main
